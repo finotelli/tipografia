@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&family=Poppins&family=Tinos:wght@400;700&display=swap');
+
+body {
+    font-size: 22px;
+    background-color: rgb(255, 240, 255);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    font-variant: normal;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 40px;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 0 gray;
+    color: rgb(105, 15, 150);
+}
